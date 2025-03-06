@@ -23,4 +23,4 @@ Além disso, o projeto me permitiu melhorar meu fluxo de trabalho com Git, facil
 - **JavaScript/TypeScript**: Lógica de implementação.
 
 
-
+![Buzzfeed Clone](./src/assets/img/R.png)
